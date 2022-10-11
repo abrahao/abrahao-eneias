@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abrahao
-- 👀 I’m interested in dev fullstack | PHP| SYMFONY| mobile |
+- 👀 I’m interested in dev fullstack | PHP | SYMFONY | Mobile |
 - 🌱 I’m currently learning  | Angular framework | Flutter framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
